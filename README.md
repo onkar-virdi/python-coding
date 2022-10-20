@@ -1,3 +1,3 @@
 # python-coding
 
-This is my test repository.
+This is my actual repository.
